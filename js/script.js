@@ -29,6 +29,11 @@ function check(){
 }
 
 
+$(function(){
+  $("#sm").mask("9.99");
+});
+
+
 
 
 
